@@ -12,6 +12,10 @@
 
 ---
 
+## Workspace Links
+* **[Trello Board](https://trello.com/b/bsc6WHDT)** - กระดานติดตามสถานะการดำเนินงาน
+* **[draw.io](https://drive.google.com/file/d/1tFYndnVNnFhFePMNs_YaC3N4-rA2QI3y/view?usp=sharing)** - diagram
+
 ## โครงสร้างโฟลเดอร์ของโครงการ (Repository Directory Structure)
 
 ```text
